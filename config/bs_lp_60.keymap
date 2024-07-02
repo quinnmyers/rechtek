@@ -59,7 +59,7 @@
 &trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans      &trans      &trans                &trans                &trans           &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans      &trans      &trans                &kp C_BRIGHTNESS_INC  &kp K_VOLUME_UP  &mo 3
 &trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans      &trans      &kp C_BRIGHTNESS_DEC  &kp K_VOL_DN                           &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans  &kp K_NEXT  &kp K_NEXT  &kp K_MUTE                                                   &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans  &kp C_PREV  &kp C_NEXT  &kp K_MUTE                                                   &trans
 &trans  &trans          &trans                  &kp C_PP                                  &trans                &trans                &trans           &trans
             >;
         };
